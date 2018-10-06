@@ -1,0 +1,20 @@
+﻿@using RzSistemas.TreinaWebMVC.Web.Models
+@model Pessoa
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Olá da View Index do Controller TesteModelBinder.</p>
+<p>Esta View é chamada pelo método HTTP GET e pelo POST.</p>
+
+<p>Digite o seu nome:</p>
+@using (Html.BeginForm("Index", "TesteModelBinder", FormMethod.Post))
+{
+    @*@Html.TextBoxFor(p => p.Nome)*@
+    @Html.TextBoxFor(p => p.Nome, new { id = "TextBoxNome" })
+    @*@Html.TextBox("Nome", null, new { id = "txbNome" })*@
+    <input type="submit" value="Enviar" />
+}

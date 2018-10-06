@@ -64,7 +64,6 @@ C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.W
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\bin\Microsoft.AI.Web.xml
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\obj\Debug\RzSistemas.TreinaWebMVC.Web.csprojAssemblyReference.cache
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\obj\Debug\RzSistemas.TreinaWebMVC.Web.csproj.CoreCompileInputs.cache
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\obj\Debug\RzSistemas.TreinaWebMVC.Web.csproj.CopyComplete
 C:\Users\Blithe\source\repos\TreinaWebMVC\TreinaWebMVC\RzSistemas.TreinaWebMVC.Web\RzSistemas.TreinaWebMVC.Web\obj\Debug\RzSistemas.TreinaWebMVC.Web.dll

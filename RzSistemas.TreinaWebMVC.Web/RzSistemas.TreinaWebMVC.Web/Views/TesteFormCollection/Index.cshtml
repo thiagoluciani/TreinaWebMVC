@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Olá da View Index do Controller TesteFormCollection.</p>
+<p>Esta View é chamada pelo método HTTP GET e pelo POST.</p>
+
+<p>Digite o seu nome:</p>
+@using (Html.BeginForm("Index", "TesteFormCollection", FormMethod.Post))
+{
+    <input type="text" id="edtNome" name="Nome" />
+    <input type="submit" value="Enviar" />
+}
